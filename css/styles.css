@@ -736,7 +736,7 @@ img {
   text-decoration-line: underline;
 }
 
-.check-icon {
+.check-icon-span {
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   width: 16px;
