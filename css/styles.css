@@ -682,7 +682,7 @@ img {
 }
 
 .icon-input {
-  fill:none
+  fill: none;
   position: absolute;
   left: 16px;
   top: 50%;
