@@ -679,7 +679,7 @@ img {
 .modal-input:focus-within + .icon-input {
   fill: #4d5ae5;
 }
-.modal-input + .icon-input:focus-within {
+.icon-input:focus {
   border-color: #4d5ae5;
 }
 .icon-input {
